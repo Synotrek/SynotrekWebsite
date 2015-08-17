@@ -1,0 +1,12 @@
+# Site settings
+title: Synotrek
+email: synotrek@gmail.com
+description: >
+  This is our site. Our site is amazing. Give it a lick! (It tastes just like raisins)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://synotrek.com" # the base hostname & protocol for your site
+twitter_username: synotrek
+github_username:  synotrek
+
+# Build settings
+markdown: kramdown
